@@ -1,0 +1,29 @@
+{
+  "name": "ts-snow",
+  "version": "1.0.0",
+  "description": "Try publish Npm",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itxve/ts-snow.git"
+  },
+  "keywords": [
+    "typescript",
+    "snow"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itxve/ts-snow/issues"
+  },
+  "homepage": "https://github.com/itxve/ts-snow#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1",
+    "typescript": "^4.1.3"
+  }
+}
