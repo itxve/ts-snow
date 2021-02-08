@@ -1,6 +1,6 @@
 {
   "name": "ts-snow",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Try publish Npm",
   "main": "dist/index.js",
   "scripts": {
